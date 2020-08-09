@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 84.0.4147 (Windows 10.0.0)" package="unit" timestamp="2020-08-08T07:17:56" id="0" hostname="Huk-Yoga" tests="1" errors="0" failures="0" time="0.071">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/84.0.4147.105 Safari/537.36"/>
+  </properties>
+  <testcase name="AppComponent should create the app" time="0.071" classname="unit.AppComponent"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
